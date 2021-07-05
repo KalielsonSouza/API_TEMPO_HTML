@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(38, 44, 46);
+}
+
+#divInput {
+    position: relative;
+    top: 5rem;
+}
+
+#infoInput {
+    position: relative;
+    top: 10rem;
+}
+
+#cityInput {
+    position: relative;
+    width: 40rem;
+    left: 20rem;
+}
+
+#btnSubmitCity {
+    position: relative;
+    top: 10px;
+}
+
+#cityInfo {
+    font-size: 150px;
+}
